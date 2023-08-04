@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋
+=
+We are a group a friend, we have create this organization to produce content with more brain power !
 
 <!--
 
