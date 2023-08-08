@@ -1,3 +1,8 @@
+<a href=""><img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+<a href="https://github.com/dev-studio-temp/bot-discord/blob/main/Kiri-bot/main.py"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://github.com/dev-studio-temp/bot-discord/blob/main/Kiri-bot/main.py"><img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://discord.gg/RZAk6fTuyD"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
 Hi there 👋
 =
 We are a group a friend, we have create this organization to produce content with more brain power !
